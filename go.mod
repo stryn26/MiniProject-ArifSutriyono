@@ -1,6 +1,6 @@
 module github.com/stryn26/MiniProjectEvermosRakamin
 
-go 1.18
+go 1.20
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
